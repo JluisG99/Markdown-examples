@@ -11,8 +11,12 @@ __two underscores work as the last example.__
 >
 >Jose L. 1999
 
+Imágenes en sitios externos
+
 [Enlace al sitio web de la UCR](https://www.ucr.ac.cr/)  
 
 
  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Milky_Way_Galaxy.jpg/2048px-Milky_Way_Galaxy.jpg" alt="MilkyWay" width="330">
+
+Imágenes en el mismo sitio
