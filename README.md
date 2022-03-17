@@ -19,4 +19,12 @@ Imágenes en sitios externos
  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Milky_Way_Galaxy.jpg/2048px-Milky_Way_Galaxy.jpg" alt="MilkyWay" width="330">
 
-Imágenes en el mismo sitio
+Imágenes en el mismo sitio  
+1. Go to add files
+2. upload your images
+3. just write its name over here and commit changes  
+
+Now for a none numeric list we can eaither use numbers or dots; in this last case just add "-" at each element:    
+- Sometimes a none numeric list can be helpful to differentiate a list from another one  
+- and it´s nice to know how to make both of them  
+
