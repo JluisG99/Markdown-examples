@@ -15,4 +15,4 @@ __two underscores work as the last example.__
 
 
 ![MilkyWay](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Milky_Way_Galaxy.jpg/2048px-Milky_Way_Galaxy.jpg)  
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Milky_Way_Galaxy.jpg/2048px-Milky_Way_Galaxy.jpg" alt="MilkyWay" width="50">
