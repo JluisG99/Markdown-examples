@@ -6,7 +6,7 @@ _but also with underscores work the exact same way_
 **if we add 2 asterisks on each side of a sentence it'll become a bolded text**  
 __two underscores work as the last example.__  
 
-> Somewhere on the MilkyWay
-> Humans found extraterrestrial life...
+> Somewhere on the MilkyWay  
+> Humans found extraterrestrial life...  
 >
 >Jose L. 1999
