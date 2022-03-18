@@ -27,6 +27,6 @@ Imágenes en el mismo sitio
 Now for a none numeric list we can eaither use numbers or dots; in this last case just add "-" at each element:    
 - Sometimes a none numeric list can be helpful to differentiate a list from another one  
 - and it´s nice to know how to make both of them  
-
+![](michael-G9bDsVeHM7I-unsplash.jpg)
 
 
